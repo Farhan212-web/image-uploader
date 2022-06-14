@@ -1,0 +1,10 @@
+.Uploader {
+    text-align: center;
+}
+
+.btn {
+    background-color: rgb(0, 132, 255);
+    color: white;
+    padding: .7rem;
+    border-radius: 10px;
+}
